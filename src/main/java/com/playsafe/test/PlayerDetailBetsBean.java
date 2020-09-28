@@ -7,7 +7,7 @@ class PlayerDetailBetsBean {
     private String  bet;
     private float   numberofBets;
     private float   winningsforBet;
-    private boolean isStillPlaying;
+
 
     public String getPlayerName() {
         return playerName;
@@ -57,11 +57,4 @@ class PlayerDetailBetsBean {
         this.winningsforBet = winningsforBet;
     }
 
-    public boolean isStillPlaying() {
-        return isStillPlaying;
-    }
-
-    public void setStillPlaying(boolean stillPlaying) {
-        isStillPlaying = stillPlaying;
-    }
 }

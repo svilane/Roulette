@@ -29,6 +29,7 @@ public class Roulette {
 
         Scanner input = new Scanner(System.in);
         boolean stopGameNow = true;
+
         do {
             round++;
             for (PlayerSumaryDrawBean player : playerSumaryBeanList) {
@@ -253,7 +254,6 @@ public class Roulette {
                 break;
             }
         }
-
         return stopGame;
     }
 
