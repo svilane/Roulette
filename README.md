@@ -4,20 +4,21 @@ Roulette is a Java app
 
 ## Installation
 
-Use the package manager to install foobar.
-
+Use the package manager in your IDE and create a runnable jar from the files below.
+ 
 ```bash
 Open these files in an IDE
 1 DrawBean.java
 2 PlayerDetailBetsBean.java
 3 PlayerSumaryDrawBean.java
-4 Roulette.java - Main Program
+4 Roulette.java - with the Main method
 And Run the "Roulette.java"
 ```
 
 ## Usage
 
 ```Java
+Edit The Application.properties according to your specification
 Application.properties
 
 inputfile=C:\\Dev\\Projects\\Test\\Roulette\\src\\main\\resources\\Players.txt
