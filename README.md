@@ -8,10 +8,11 @@ Use the package manager to install foobar.
 
 ```bash
 Open these files in an IDE
-DrawBean.java
-PlayerDetailBetsBean.java
-PlayerSumaryDrawBean.java
-Roulette.java - Main Program
+1 DrawBean.java
+2 PlayerDetailBetsBean.java
+3 PlayerSumaryDrawBean.java
+4 Roulette.java - Main Program
+And Run the "Roulette.java"
 ```
 
 ## Usage
